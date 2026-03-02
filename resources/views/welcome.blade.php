@@ -25,6 +25,11 @@
         <button class="w-full bg-[#111827] hover:bg-black text-white text-[11px] font-semibold py-3.5 rounded-xl transition-all duration-500 uppercase tracking-widest shadow-lg shadow-gray-200">
             Modul Pertemuan 1
         </button>
+
+        <a href="/login" 
+        class="w-full mt-4 bg-gray-800 hover:bg-black text-white text-[11px] font-semibold py-3.5 rounded-xl transition-all duration-500 uppercase tracking-widest shadow-lg shadow-gray-200 text-center block">
+        Login
+        </a>
         
     </div>
 
