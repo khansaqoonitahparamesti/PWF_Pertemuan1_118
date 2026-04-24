@@ -10,6 +10,13 @@
             <div class="bg-white overflow-hidden shadow-sm sm:rounded-lg">
                 <div class="p-6 text-gray-900">
                     {{ __("You're logged in!") }}
+
+                    @can('export-product')
+                    <a href="/export" class="bg-green-500 text-white px-4 py-2 rounded">
+                        Export Product
+                    </a>
+                    @endcan
+                    
                 </div>
             </div>
         </div>
