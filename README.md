@@ -6,7 +6,7 @@
 ### NIM     : 20230140118
 
 ## link praktikum:
-### Praktikum 7: Praktikum7.md
+### Praktikum 7: https://github.com/khansaqoonitahparamesti/PWF_Pertemuan1_118/blob/340683bb59c242e34247244cf41b179c611d1180/Praktikum7.md
 
 ---
 
