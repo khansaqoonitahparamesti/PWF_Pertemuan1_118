@@ -5,6 +5,9 @@
 ### Nama    : Khansa Qoonitah Paramesti
 ### NIM     : 20230140118
 
+## link praktikum:
+# https://github.com/khansaqoonitahparamesti/PWF_Pertemuan1_118/blob/793e2ef21e0535418fd557f3a6c57af020cefd45/Praktikum7.md
+
 ---
 
 ## Praktikum  1
